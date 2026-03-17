@@ -2,5 +2,6 @@ body {
     background: white url("images/raveracer.webp");
 }
 li a {
-    color: green;
+    /* color: green; */
+    color: red;
 }
